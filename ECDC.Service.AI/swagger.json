@@ -1,0 +1,8 @@
+﻿components : @{securitySchemes=}
+info       : @{title=Promptflow[model] API; version=1.0.0; x-flow-name=model}
+openapi    : 3.0.0
+paths      : @{/feedback=; /score=}
+security   : {@{bearerAuth=System.Object[]}}
+
+
+

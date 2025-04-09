@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>c:\temp\ECDC AI Outlook Extender\</PublishUrlHistory>
+    <InstallUrlHistory>https://staihubsdcdev001.blob.core.windows.net/outlook-setup/|https://vstoaddinupdates.blob.core.windows.net/%24web/</InstallUrlHistory>
+    <SupportUrlHistory>https://dev.azure.com/EU-ECDC/AI%2520Innovation%2520Hub/_wiki/wikis/AI-Innovation-Hub.wiki/1975/ECDC-AI-OutlookExtender-%28AIOX%29</SupportUrlHistory>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+</Project>

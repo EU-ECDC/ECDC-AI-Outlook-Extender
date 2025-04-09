@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ECDC.OutlookExtender.Properties" GeneratedClassName="DataFlows">
+  <Profiles />
+  <Settings>
+    <Setting Name="ExceptionMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">An unexpected error happend to OutlookExtender.
+
+Log files can be found here: {FilePath}
+Do you want to report the error details:
+{ErrorDetails}</Value>
+    </Setting>
+    <Setting Name="ExceptionNotificationEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">acme@acme.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

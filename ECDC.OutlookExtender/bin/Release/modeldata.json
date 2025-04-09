@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "ChatGPT 4o",
+    "ClientKey": "6PIzMtKOgCLKqTRYaiom9sS4P1MkQAvEX0lJlq3050ZOjDiGsT9FJQQJ99BCACfhMk5XJ3w3AAAAACOGzEAv",
+    "UrlEndPoint": "https://swedencentral.api.cognitive.microsoft.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview",
+    "MaxTokens": 4096,
+    "TopP": 0.95
+  },
+  {
+    "Name": "Llama-3.3-70B-Instruct",
+    "ClientKey": "6PIzMtKOgCLKqTRYaiom9sS4P1MkQAvEX0lJlq3050ZOjDiGsT9FJQQJ99BCACfhMk5XJ3w3AAAAACOGzEAv",
+    "UrlEndPoint": "https://swedencentral.api.cognitive.microsoft.com/models/chat/completions?api-version=2024-05-01-preview",
+    "MaxTokens": 4096,
+    "TopP": 0.95
+  },
+  {
+    "Name": "Phi-4",
+    "ClientKey": "6PIzMtKOgCLKqTRYaiom9sS4P1MkQAvEX0lJlq3050ZOjDiGsT9FJQQJ99BCACfhMk5XJ3w3AAAAACOGzEAv",
+    "UrlEndPoint": "https://swedencentral.api.cognitive.microsoft.com/models/chat/completions?api-version=2024-05-01-preview",
+    "MaxTokens": 4096,
+    "TopP": 0.95
+  }
+]

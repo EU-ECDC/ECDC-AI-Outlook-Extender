@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "ChatGPT 4o",
+    "ClientKey": "",
+    "UrlEndPoint": "",
+    "MaxTokens": 4096,
+    "TopP": 0.95
+  },
+  {
+    "Name": "Llama-3.3-70B-Instruct",
+    "ClientKey": "",
+    "UrlEndPoint": "",
+    "MaxTokens": 4096,
+    "TopP": 0.95
+  },
+  {
+    "Name": "Phi-4",
+    "ClientKey": "",
+    "UrlEndPoint": "",
+    "MaxTokens": 2048,
+    "TopP": 0.95
+  }
+]
